@@ -1,0 +1,7 @@
+Exemple de cours PASS — Biochimie
+
+Une enzyme est un catalyseur biologique qui accélère une réaction chimique sans être consommé au cours de la réaction.
+Une exopeptidase hydrolyse les liaisons peptidiques situées aux extrémités d'une chaîne polypeptidique.
+Une endopeptidase hydrolyse des liaisons peptidiques internes à la chaîne.
+Un aldéhyde possède un groupe carbonyle terminal, tandis qu'une cétone possède un groupe carbonyle interne.
+Le pH est défini par pH = -log[H3O+]. Une solution neutre à 25 °C a un pH de 7.
